@@ -1,0 +1,16 @@
+footer{
+    background-color: rgb(79 70 229 / var(--tw-bg-opacity, 1)) !important;
+}
+
+.information-card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transform: scale(1.03); 
+    transition: all 0.3s ease-in-out; 
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: #6B7280 !important;  
+    opacity: 1 !important;      
+  }
+  
